@@ -1,4 +1,4 @@
-# GitOrange
+<p align="center"><img src="gitorange-logo.png" alt="GitOrange" width="360" /></p>
 
 The code host for teams where coding agents write the code and people approve the risk. Self-hosted, as one
 Cloudflare Worker with every repository in Cloudflare Artifacts. We build GitOrange on GitOrange.
